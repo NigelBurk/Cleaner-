@@ -1,4 +1,4 @@
-# Burke Cleaner
+# Cleaner
 
 I made a script using the .bat file format to delete unwanted temporary files and unnecessary software from your computer as it may be causing it to run slower.
 
